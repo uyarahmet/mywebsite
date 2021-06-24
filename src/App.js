@@ -148,7 +148,7 @@ function App() {
       <br/>
      	<div class="row button-section">
      		<div class="col-twelve">
-     			<a href="https://user-images.githubusercontent.com/85699024/122618992-6cc02600-d05d-11eb-93fb-f92b659574c4.png" download title="Download CV" class="button button-primary">Display CV</a>
+     			<a href="https://user-images.githubusercontent.com/85699024/123281597-d2863500-d4d7-11eb-8b5c-0fa6abc2308d.png" download title="Download CV" class="button button-primary">Display CV</a>
      		</div>
      	</div>
 
