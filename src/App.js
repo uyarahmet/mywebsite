@@ -56,7 +56,7 @@ function App() {
 
      			<div class="intro-info">
 
-     				<img src={me} alt="Profile Picture"></img>
+     				<img src={me} ></img>
 
      				<p class="lead">I'm Ahmet, a student at Koç University. I am currently pursuing my Bachelor's degree in Computer
             Engineering together with Electrical and Electronical Engineering. I have experience in C, C++, Java, Python, and
@@ -270,7 +270,7 @@ function App() {
 
   	         	<div class="bgrid folio-item">
   	               <div class="item-wrap">
-  	               	<img src={tree} alt="Liberty"/>
+  	               	<img src={tree}/>
   	                  <a href="https://github.com/uyarahmet/DeNovo" class="overlay">
   	                     <div class="folio-item-table">
   	                     	<div class="folio-item-cell">
@@ -286,7 +286,7 @@ function App() {
 
   	        		<div class="bgrid folio-item">
   	               <div class="item-wrap">
-  	               	<img src={inventory} alt="Shutterbug"/>
+  	               	<img src={inventory}/>
   	               	<a href="https://github.com/uyarahmet/Decovita_Inventory_Tracker" class="overlay">
   	                     <div class="folio-item-table">
   	                     	<div class="folio-item-cell">
@@ -302,7 +302,7 @@ function App() {
 
                 <div class="bgrid folio-item">
   	               <div class="item-wrap">
-  	               	<img src={spartan} alt="Shutterbug"/>
+  	               	<img src={spartan} />
   	               	<a href="https://github.com/uyarahmet/2D-intersection-calculator" class="overlay">
   	                     <div class="folio-item-table">
   	                     	<div class="folio-item-cell">
