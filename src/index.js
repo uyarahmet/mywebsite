@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './css/main.css';
 import App from './App';
 
+document.title = 'Ahmet Uyar'
+
 ReactDOM.render(
 
     <App />
