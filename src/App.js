@@ -257,6 +257,7 @@ function App() {
      			<h1>Check Out Some of My Works.</h1>
 
      			<p class="lead">This feed will be updated regularly.</p>
+         <br/>
 
      		</div>
      	</div>
@@ -408,7 +409,7 @@ function App() {
      			</div>
 
      			<h5>Email Me At</h5>
-
+ 
      			<p>auyar19@ku.edu.tr <br/>
   			   </p>
 
