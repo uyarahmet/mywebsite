@@ -59,7 +59,7 @@ function App() {
      				<img src={me} alt=''></img>
 
      				<p class="lead">I'm Ahmet, a student at Koç University. I am currently pursuing my Bachelor's degree in Computer
-            Engineering together with Electrical and Electronical Engineering. I have experience in C, C++, Java, Python, and
+            Engineering together with Electrical and Electronics Engineering. I have experience in C, C++, Java, Python, and
            JavaScript. I'm interested in history, modeling, and simulation. </p>
      			</div>
 
@@ -378,8 +378,8 @@ function App() {
 
      			<h5>Call Me At</h5>
 
-     			<p>TR: (+1) 571 413 7968 <br/>
-  			   	US: (+90) 549 870 5654 <br/>
+     			<p>US: (+1) 571 413 7968 <br/>
+  			   	TR: (+90) 549 870 5654 <br/>
   			   </p>
 
      		</div>
