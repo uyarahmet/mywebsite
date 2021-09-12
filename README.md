@@ -1,1 +1,1 @@
-[uyarahmet.com](uyarahmet.com)
+[uyarahmet.com](https://uyarahmet.com)
