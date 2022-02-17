@@ -23,7 +23,7 @@ function App() {
   	   			<h1>I'm Ahmet Uyar.</h1>
 
   	   			<p class="intro-position">
-  	   				<span>CS and EEE double major student</span>
+  	   				<span>Computer Engineering Student</span>
   	   			</p>
 
   	   			<a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
@@ -59,8 +59,7 @@ function App() {
      				<img src={me} alt=''></img>
 
      				<p class="lead">I'm Ahmet, a student at Koç University. I am currently pursuing my Bachelor's degree in Computer
-            Engineering together with Electrical and Electronical Engineering. I have experience in C, C++, Java, Python, and
-           JavaScript. I'm interested in history, modeling, and simulation. </p>
+            Engineering. I'm also a software engineer with experience in web and mobile technologies. Interested in cloud and performance computing together with history. </p>
      			</div>
 
      		</div>
@@ -77,6 +76,25 @@ function App() {
           <p id="skills-text">
           •	Developing facial recognition and object detection AI solutions for filtering invalid photos inside
           the eKare database. Integrating the filtering middleware to eKare GAUSS api.</p>
+
+          <br/>
+          <p class ="exp-title">Founder of Royar & EmLock</p>
+          <br/>
+          <p id="skills-text">
+          •	Importing smart locks for use in the real estate market in Turkey. EmLock is the smart lock side of
+          business and Royar is its real estate</p>
+
+          <br/>
+          <p class ="exp-title">Instructor at KU ACM Student Chapter</p>
+          <br/>
+          <p id="skills-text">
+          •	Teaching 100+ students React and Django stack.</p>
+
+          <br/>
+          <p class ="exp-title">Junior Software Engineer at eKare Inc.</p>
+          <br/>
+          <p id="skills-text">
+          •	Recently prepared a sticker detection project using openCV, currently converting the project to C++</p>
 
            <br/>
 
@@ -148,7 +166,7 @@ function App() {
       <br/>
      	<div class="row button-section">
      		<div class="col-twelve">
-     			<a href="https://github.com/uyarahmet/Resume/blob/main/CV.pdf" download title="Download CV" class="button button-primary">Display CV</a>
+     			<a href="https://user-images.githubusercontent.com/85699024/154527617-5d552ef2-56c4-414e-9ee3-e09f426bc340.png" download title="Download CV" class="button button-primary">Display CV</a>
      		</div>
      	</div>
 
