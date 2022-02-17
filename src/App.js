@@ -223,7 +223,7 @@ function App() {
   	   				</div>
 
   	   				<div class="timeline-content">
-  	   					<h4><a href="https://www.ku.edu.tr/"></a></h4>
+  	   					<h4></h4>
   	   					<p id = 'skills-text'>Held weekly review sessions of the course materials for the CS courses: COMP125,
                 COMP106, COMP201. Currently helping Aykut Erdem with real life demos for students' comprehension </p>
   	   				</div>
