@@ -245,7 +245,7 @@ function App() {
 
   	   				<div class="timeline-header">
   	   					<h3>R&D Intern</h3>
-  	   					<p>June 2021 - Present</p>
+  	   					<p>June 2021 - August 2021</p>
   	   				</div>
 
   	   				<div class="timeline-content">
@@ -256,9 +256,97 @@ function App() {
 
      			</div>
 
+
      		</div>
 
      	</div>
+
+      <div class="col-twelve">
+
+        <div class="timeline-wrap">
+
+          <div class="timeline-block">
+
+            <div class="timeline-ico">
+              <i class="fa fa-briefcase"></i>
+            </div>
+
+            <div class="timeline-header">
+              <h3>Instructor</h3>
+              <p>September 2021 - Present</p>
+            </div>
+
+            <div class="timeline-content">
+              <h4><a href="https://ekare.ai/">Koç University ACM Student Branch</a></h4>
+              <p id = 'skills-text'>• Teaching 100+ students React and Django stack.</p>
+            </div>
+
+
+
+
+        </div>
+
+
+      </div>
+
+    </div>
+
+    <div class="col-twelve">
+
+      <div class="timeline-wrap">
+
+        <div class="timeline-block">
+
+          <div class="timeline-ico">
+            <i class="fa fa-briefcase"></i>
+          </div>
+
+          <div class="timeline-header">
+            <h3>Sales Specialist</h3>
+            <p>December 2021 - Present</p>
+          </div>
+
+          <div class="timeline-content">
+            <h4><a href="https://ekare.ai/">Datacasa</a></h4>
+            <p id = 'skills-text'>• Helping potential clients in migrating to our data center.</p>
+          </div>
+
+      </div>
+
+
+    </div>
+
+
+  </div>
+
+  <div class="col-twelve">
+
+    <div class="timeline-wrap">
+
+      <div class="timeline-block">
+
+        <div class="timeline-ico">
+          <i class="fa fa-briefcase"></i>
+        </div>
+
+        <div class="timeline-header">
+          <h3>Jr. Software Engineer</h3>
+          <p>February 2022 - Present</p>
+        </div>
+
+        <div class="timeline-content">
+          <h4><a href="https://ekare.ai/">ekare.ai</a></h4>
+          <p id = 'skills-text'>• Completed a sticker detection project using openCV, working on existing projects.</p>
+        </div>
+
+    </div>
+
+
+  </div>
+
+
+</div>
+
 
     </div>
 
